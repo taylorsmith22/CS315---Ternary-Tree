@@ -1,0 +1,14 @@
+Project Description:
+This project is intended to act as ternary tree.
+The program will take in a number of integers, putting them into their respective node. 
+It will then print the ternary tree in order from least to greatest with parentheses to show which data values belong to what families.
+
+Expected Input: 
+The program expects an integer value as a command line argument, which tells the program how many data values it wants to be entered into the ternary tree.
+The program also uses the randGen.pl file with the piping operator(|) to pipe random numbers into the simulation.
+
+Expected Output: 
+The program will print the ternary tree in order with parentheses to show which data values belong to which nodes/families
+
+How to compile:
+To compile the program type: make run
